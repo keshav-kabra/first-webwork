@@ -1,0 +1,52 @@
+body{
+    
+    border: solid ;
+    margin-bottom: 0px;
+    font-size: 20px;
+    /*background-color: azure;*/
+    
+}
+
+    
+    
+}
+.header{
+    padding: 45px 0px 20px 40px;
+    text-decoration: none;
+    
+
+    }
+.header a{
+    text-decoration: none;
+    
+}
+
+.menu{
+    background-color:darkcyan ;
+    padding : 6px  0 6px 40px;
+    text-decoration: none;
+    
+        
+}
+.menu a{
+    
+    font-family: "arial narrow","myraid pro";
+    text-decoration-color:white;
+    text-decoration: none;
+    
+}
+.main{
+    
+    margin-left: 3px ;
+    margin-right: 3px;
+    text-align :justify;
+    /*background-color: azure;*/
+    font-family: "myraid pro";
+    
+    
+}
+footer{
+    background-color:dimgrey;
+    padding: 2px 3px; 
+        
+}

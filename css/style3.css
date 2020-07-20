@@ -1,0 +1,33 @@
+
+ 
+    
+    
+
+aside{
+    float: left;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 200px;
+    padding-bottom: 500px
+}
+.form{
+    box-shadow: 0px 1px 1px 2px;
+    border-radius: 5px;
+    margin-right: 400px;
+    margin-left: 250px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    align-self: center;
+     
+}
+.form input{
+    width: 70%;
+    border-radius: 5px;
+    color:dimgrey;
+    text-align: center;
+    align-self: center;
+}
+.form p{
+    text-align: left;
+    
+}
